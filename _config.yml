@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+title: You Blog
+SEOTitle: 你的博客 | You Blog  
+header-img:
+email:
+description: "You Blog" 
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
+url: "https://qiubaiying.github.io"
+baseurl: ""
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "说点装逼的话。。。"
+sidebar-avatar: #/img/avatar-by.JPG
+
